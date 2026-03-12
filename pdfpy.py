@@ -1,3 +1,4 @@
 import pyttx3
 import pyPDF2
-from tkinder.
+from tkinder.filedialog import *
+
